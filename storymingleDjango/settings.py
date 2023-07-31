@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-l--zukgwre76&8p5+cgm_t*vkakko94qtvrpm32h+-8m9ct1a3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['storymingle.com']
 
 
 # Application definition
